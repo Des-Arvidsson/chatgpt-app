@@ -1,7 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
+## Getting Started
+create new app:
+npx create-next-app@latest
 First, run the development server:
 
 ```bash
